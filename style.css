@@ -1,0 +1,10 @@
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+.image-div {
+  width: 100%;
+  height: 100%;
+}
