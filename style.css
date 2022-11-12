@@ -8,3 +8,9 @@ img {
   width: 100%;
   height: 100%;
 }
+
+#myBtn {
+  position: absolute;
+  left: 50%;
+  top: 20%;
+}
