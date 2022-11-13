@@ -21,7 +21,7 @@ body {
 
 #neckBtn {
   position: absolute;
-  left: 39%;
+  left: 58%;
   top: 17%;
 }
 
@@ -33,7 +33,7 @@ body {
 
 #handBtn {
   position: absolute;
-  left: 47%;
+  left: 50%;
   top: 49%;
 }
 
@@ -51,7 +51,7 @@ body {
 
 #legsBtn {
   position: absolute;
-  left: 41%;
+  left: 60%;
   top: 62%;
 }
 
@@ -82,28 +82,29 @@ body {
   text-align: center;
 }
 
-h2{
+h2 {
   text-align: left !important;
   padding: 8px;
   background-color: white;
 }
 
-p{
+p {
   background: white;
   padding: 10px;
   font-size: 20px;
 }
 
-span.close{
+span.close {
   background-color: white;
 }
 
-.modal{
+.modal {
   text-align: center;
 }
 
-.modal-content{
-  background-color: #ffdad6;;
+.modal-content {
+  background-color: #ffdad6;
+  ;
 }
 
 .modal-header .close {
@@ -111,6 +112,6 @@ span.close{
   margin: 0px;
 }
 
-.modal-header{
+.modal-header {
   justify-content: start;
 }
