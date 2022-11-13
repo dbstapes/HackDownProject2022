@@ -9,64 +9,64 @@ img {
   height: 100%;
 }
 
-#myBtn-1 {
+#headBtn {
   position: absolute;
-  left: 58%;
+  left: 39%;
   top: 2%;
 }
 
-#myBtn-2 {
+#neckBtn {
   position: absolute;
-  left: 50%;
+  left: 39%;
+  top: 10%;
+}
+
+#armBtn {
+  position: absolute;
+  left: 33%;
+  top: 26%;
+}
+
+#handBtn {
+  position: absolute;
+  left: 47%;
+  top: 40%;
+}
+
+#chestBtn {
+  position: absolute;
+  left: 39%;
   top: 20%;
 }
 
-#myBtn-3 {
+#stomachBtn {
   position: absolute;
-  left: 51%;
+  left: 39%;
+  top: 30%;
+}
+
+#legsBtn {
+  position: absolute;
+  left: 41%;
+  top: 55%;
+}
+
+#feetBtn {
+  position: absolute;
+  left: 37%;
+  top: 78%;
+}
+
+#uBackBtn {
+  position: absolute;
+  left: 58%;
   top: 20%;
 }
 
-#myBtn-4 {
+#lBackBtn {
   position: absolute;
-  left: 52%;
-  top: 20%;
-}
-
-#myBtn-5 {
-  position: absolute;
-  left: 53%;
-  top: 20%;
-}
-
-#myBtn-6 {
-  position: absolute;
-  left: 54%;
-  top: 20%;
-}
-
-#myBtn-7 {
-  position: absolute;
-  left: 55%;
-  top: 20%;
-}
-
-#myBtn-8 {
-  position: absolute;
-  left: 56%;
-  top: 20%;
-}
-
-#myBtn-9 {
-  position: absolute;
-  left: 57%;
-  top: 20%;
-}
-
-#myBtn-10 {
-  position: absolute;
-  left: 59%;
-  top: 20%;
+  left: 58%;
+  top: 33%;
 }
 
 .btn-circle {
