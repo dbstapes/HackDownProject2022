@@ -114,3 +114,7 @@ span.close{
 .modal-header{
   justify-content: start;
 }
+
+form{
+  text-align: center;
+}
