@@ -9,9 +9,63 @@ img {
   height: 100%;
 }
 
-#myBtn {
+#myBtn-1 {
+  position: absolute;
+  left: 58%;
+  top: 2%;
+}
+
+#myBtn-2 {
   position: absolute;
   left: 50%;
+  top: 20%;
+}
+
+#myBtn-3 {
+  position: absolute;
+  left: 51%;
+  top: 20%;
+}
+
+#myBtn-4 {
+  position: absolute;
+  left: 52%;
+  top: 20%;
+}
+
+#myBtn-5 {
+  position: absolute;
+  left: 53%;
+  top: 20%;
+}
+
+#myBtn-6 {
+  position: absolute;
+  left: 54%;
+  top: 20%;
+}
+
+#myBtn-7 {
+  position: absolute;
+  left: 55%;
+  top: 20%;
+}
+
+#myBtn-8 {
+  position: absolute;
+  left: 56%;
+  top: 20%;
+}
+
+#myBtn-9 {
+  position: absolute;
+  left: 57%;
+  top: 20%;
+}
+
+#myBtn-10 {
+  position: absolute;
+  left: 59%;
   top: 20%;
 }
 
