@@ -5,7 +5,7 @@ img {
 }
 
 body {
-  background-color: #ffdad6;
+  background-color: #d6fbff;
 }
 
 .image-div {
@@ -103,8 +103,7 @@ span.close {
 }
 
 .modal-content {
-  background-color: #ffdad6;
-  ;
+  background-color: #d6fbff;
 }
 
 .modal-header .close {
@@ -114,4 +113,8 @@ span.close {
 
 .modal-header {
   justify-content: start;
+}
+
+ul {
+  font-size: 1rem;
 }
