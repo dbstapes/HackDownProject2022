@@ -109,6 +109,11 @@ p {
   justify-content: start;
 }
 
+
+form{
+  text-align: center;
+}
+
 ul {
   font-size: 1rem;
 }
@@ -117,3 +122,4 @@ ul {
   background-color: #73000b !important;
   border-color: #73000b !important;
 }
+

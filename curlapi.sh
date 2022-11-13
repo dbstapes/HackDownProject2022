@@ -1,0 +1,5 @@
+curl -X POST https://api.twilio.com/2010-04-01/Accounts/ACc041bc0899f7f2f0797465d226898a1b/Messages.json \
+                --data-urlencode $'Body=Head Pain: https://www.youtube.com/watch?v=0NX1N6r17IY\nNeck Pain: https://www.youtube.com/watch?v=was4RtzpfJs\nArm Pain: https://www.youtube.com/watch?v=CZ9rvwtaK4Q\nHand Pain: https://www.youtube.com/watch?v=g4Fe-A8E4Zw\nChest Pain: https://www.youtube.com/watch?v=jpk0JpbTfO0\nStomach Pain: https://www.youtube.com/watch?v=iH-VPMpozC4\nLeg Pain: https://www.youtube.com/watch?v=CWVEVBOGNE8\nFoot Pain: https://www.youtube.com/watch?v=AXSj_5pBAKw\nUpper Back Pain: https://www.youtube.com/watch?v=bTn89EBKJdM\nLower Back Pain: https://www.youtube.com/watch?v=2VuLBYrgG94' \
+                --data-urlencode "From=+16203129687" \
+                --data-urlencode "To=+12013348487" \
+                -u ACc041bc0899f7f2f0797465d226898a1b:dd89f78357f693694e0151f42bd360f5
